@@ -1,9 +1,8 @@
-# Tjodh's Nextcloud Installation Script
+# Mootje's Nextcloud Script
 ## Table of Contents
 
 * [About this Project](#About)
 * [Usage](#Usage)
-* [Images](#Images)
 * [Credits](#Credits)
 * [Contribute](#Contribute)
 * [Questions](#Questions)
@@ -32,10 +31,6 @@ To run the script open a terminal and go to the file, than run the following com
 - Command 1: chown u+x InstallScriptFinal.sh 
 - Command 2: sudo ./InstallScriptFinal.sh
 
-## Images
-
-![Main Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Main%20Menu.png)
-![Security Sub Menu](https://raw.githubusercontent.com/Tjodh/Nextcloud-install-script/main/screenshot/Security%20Menu.png)
 
 ## Credits
 This project was created by github user https://github.com/Mootjx.
